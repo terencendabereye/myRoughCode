@@ -31,4 +31,4 @@ assignTotal = (assign1 + assign2 + assign3 + assign4 + assign5);
 finalCalculatedMark = (assignTotal) + (midTermExam * 0.2333) + (finalExam * 0.4667);
 
 % Displays overall ENCMP100 mark
-fprintf('Your final calculated mark for ENCMP100 is :\n    %.4f \n',finalCalculatedMark);
+fprintf('Your final calculated mark for ENCMP100 is :\n    %.4f \n', finalCalculatedMark);
