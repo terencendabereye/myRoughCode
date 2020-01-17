@@ -6,7 +6,8 @@
 % U of A ID: 1629570
 % Acknowledgements:
 % Description:
-% This program will plot a graph
+% This program will ask for values from the
+% and plot a graph.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Asks for initial velocity and intial height from user
